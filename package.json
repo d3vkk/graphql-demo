@@ -1,0 +1,11 @@
+{
+  "name": "y",
+  "version": "0.1.0",
+  "description": "GraphQL Demo",
+  "author": "d3vkk",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "graphql": "^15.3.0"
+  }
+}
